@@ -9,6 +9,7 @@ on:
 
 jobs:
   test:
+    name: Python clicommands tests
     runs-on: ubuntu-latest
     permissions:
       contents: read
